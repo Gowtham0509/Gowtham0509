@@ -58,6 +58,9 @@
   <a href="https://www.linkedin.com/in/gowtham0509/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://www.leetcode.com/in/gowtham0509/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg)https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" width="52" height="40" alt="leetcode logo"  />
+  </a>
 </div>
 
 ###
