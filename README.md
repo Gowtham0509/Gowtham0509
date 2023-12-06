@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React.js<br>🎯 Goals: Build interactive web applications, and contribute to open source projects<br>🎲 Fun fact: I've spent more time picking the perfect variable name than I'd like to admit.<br>📫 How to reach me [gowthamanandaraj02@gmail.com](mailto:gowthamanandaraj02@gmail.com)</p>
+<p align="left">📚 I'm currently learning React.js<br>🎯 Goals: Build interactive web applications, and contribute to open source projects<br>🎲 Fun fact: I've spent more time picking the perfect variable name than I'd like to admit.<br>📫 How to reach me <a href="mailto:gowthamanandaraj02@gmail.com">gowthamanandaraj02@gmail.com</a></p>
 
 ###
 
