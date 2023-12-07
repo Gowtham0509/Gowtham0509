@@ -1,3 +1,7 @@
+###
+<img src="path/to/your/gif/file.gif" alt="Greeting GIF" />
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
