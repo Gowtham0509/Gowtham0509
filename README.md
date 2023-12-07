@@ -1,6 +1,6 @@
 ###
 
-<img src="./assets/GOWTHAM.A.gif" alt="Welcome GIF" />
+<img src="./assets/Gowtham.gif" alt="Welcome GIF" />
 
 ###
 
