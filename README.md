@@ -1,5 +1,5 @@
 ###
-<img src="path/to/your/gif/file.gif" alt="Greeting GIF" />
+<img src="./assets/GOWTHAM_A.gif" alt="Welcome GIF" />
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
