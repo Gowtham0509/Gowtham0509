@@ -1,9 +1,5 @@
 ###
 
-<img src="./assets/Gowtham.gif" alt="Welcome GIF" />
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
