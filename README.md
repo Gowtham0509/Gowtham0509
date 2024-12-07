@@ -4,7 +4,7 @@
 
 ###
 
--<p align="left">My name is Gowtham A and I'm a Full Stack Developer from Chennai, India</p>
+<p align="left">This is Gowtham A. I am currently pursuing Master's Degree at CEG Campus, Anna University. Im a curious learner. </p>
 
 ###
 
