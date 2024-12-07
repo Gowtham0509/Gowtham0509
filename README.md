@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">This is Gowtham A. I am currently pursuing Master's Degree in Computer Science and Engineering at CEG Campus, Anna University. Im a curious learner. </p>
+<p align="left">This is Gowtham A. I am currently pursuing Master's Degree in Computer Science and Engineering at CEG Campus, Anna University.</p>
 
 ###
 
